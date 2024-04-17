@@ -1,10 +1,10 @@
-Azure Databricks Lakehouse Data Warehouse Project
+# Azure Databricks Lakehouse Data Warehouse Project
 This capstone project demonstrates an end-to-end implementation of a Lakehouse data warehouse utilizing the Medallion architecture. The process involves loading data from Azure Object Storage into a multi-layered table structure (Bronze, Silver, and Gold) and establishing the logic for data transformation and report generation.
 
-Project Design Overview
+# Project Design Overview
 The Lakehouse design integrates various components of Azure services to facilitate a seamless data flow from raw ingestion to analytical reporting.
 
-!Lakehouse Design Overview
+#!Lakehouse Design Overview
 
 Implementation Steps
 1. Set up Azure Storage:
